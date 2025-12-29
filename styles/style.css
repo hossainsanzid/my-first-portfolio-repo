@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {  
+    font-family: "Open Sans", sans-serif;
+}
+/*header styles*/
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 100px;
+}
+nav ul{
+    display: flex;
+}
+.mary{
+    font-size: 45px;
+}
+.span{
+    color: #FD6E0A;
+}
+ul li{
+    list-style-type: none;
+    margin-left: 70px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
