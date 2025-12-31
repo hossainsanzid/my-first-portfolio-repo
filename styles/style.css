@@ -49,8 +49,11 @@ ul li a{
 }
 .button{
     background-color: white;
-    color: #FD6E0A;
-   
+    color: #FD6E0A; 
+}
+button:hover{
+    background-color: #FD6E0A;
+    color: white;
 }
 .text-container{
     display: flex;
@@ -76,4 +79,37 @@ ul li a{
     height: 550px;
     width: 500px;
     margin-right: 50px;
+}
+/* about css style */
+.about-me{
+   width: 1140px;
+   height: 550px;
+   margin: 0 auto;
+   margin-top: 50px;
+   margin-bottom: 30px;
+   background-color: #FFF8F3;
+   position: relative;
+   
+}
+.everything-main{
+    border: 1px solid black;
+    max-height: 288px;
+    width: 827px;
+    margin: 0 auto;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    background-color: #FFFFFF;    
+}
+.text{
+    text-align: center;
+    margin-right: 100px;
+}
+
+.info{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;   
 }
