@@ -151,3 +151,42 @@ button:hover{
     line-height: 28px;
     font-weight: regular;  
 }
+/* resume style */
+.align{
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.edu-ex{
+    display: flex;
+    gap: 15px;
+}
+.resume{
+    margin: 130px 50px;
+}
+.div-col{
+    margin-right: 90px;
+}
+.row-1{
+    margin: 20px 5px;
+}
+.title-1{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.title-2{
+    font-size: 17px;
+    font-weight: semi-bold;
+    margin-bottom: 5px;
+    
+}
+.title-3{
+    font-size: 15px;
+    font-weight: 150;
+}
+.about{
+    font-size: 15px;
+    line-height: 28px;
+}
