@@ -190,3 +190,40 @@ button:hover{
     font-size: 15px;
     line-height: 28px;
 }
+/* footer style */
+footer{
+    background-color: #FFF8F3;
+    width: 1600px;
+    height: 600px;
+}
+.social-bio{
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.description{
+   margin: 5px 0;
+}
+.social-1{
+    margin-left: 90px;
+}
+.social-1 img{
+    margin: 20px 0;
+}
+.social-2{
+    margin-right: 90px;
+}
+.social-2 input[type="text"], input[type="email"]{
+    display: block;
+    margin-bottom: 15px;
+    width: 461px;
+    height: 64px;
+}
+.button{
+    display: block;
+    margin-top: 10px;
+    background-color: #FD6E0A;
+    color: white;
+}
